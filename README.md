@@ -19,4 +19,20 @@ create-react-bootstrap-app name-of-app
 npx create-react-bootstrap-app name-of-app
 ```
 
+
+
 This will create a directory with the given name, clone the [create-react-bootstrap-boiler](https://github.com/babandeepsingh/create-react-bootstrap-boiler.git) repo into it, and install dependencies.
+
+
+```sh
+# Almost
+Done! 🏁
+#Get Started
+To get started:
+#Go to folder
+cd app-name
+#NPM install
+npm install
+#Start app
+npm start
+```
