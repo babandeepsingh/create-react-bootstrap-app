@@ -1,0 +1,19 @@
+{
+  "name": "create-react-bootstrap-app",
+  "version": "1.2.2",
+  "bin": {
+    "create-react-bootstrap-app": "index.js"
+  },
+  "description": "A CLI based React app with bootstap pre-installed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babandeepsingh/create-react-bootstrap-app.git"
+  },
+  "keywords": ["create-react-bootstrap-app","create-react-app","react-bootstrap-app","bootstrap-app","create","react","bootstrap","app"],
+  "author": "Babandeep Singh",
+  "license": "MIT"
+}
